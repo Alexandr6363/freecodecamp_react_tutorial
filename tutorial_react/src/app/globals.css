@@ -1,0 +1,11 @@
+/* .main {
+  display: flex;
+  flex-direction: ;
+} */
+.box {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 5px;
+}
